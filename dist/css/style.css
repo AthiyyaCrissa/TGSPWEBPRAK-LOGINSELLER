@@ -18,7 +18,11 @@
     box-sizing: border-box;
     font-family:'Poppins', sans-serif;
 }
-
+.brand-name {
+    font-family: 'Sacramento', cursive;
+    font-size: 42px;  /* bisa kamu atur */
+    font-weight: normal;
+}
 a{
     text-decoration: none;
     color: var(--black-color);
